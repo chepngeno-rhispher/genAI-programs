@@ -1,0 +1,5 @@
+with entry{
+    has text:str="hello there!"
+    print(text)
+
+}
